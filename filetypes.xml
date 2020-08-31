@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="分库分表方案" type="Native" />
+      <mapping pattern="分库分表方案.md" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="marker" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="Properties" />
+      <removed_mapping ext="conf" approved="true" type="Logstash" />
+    </extensionMap>
+  </component>
+</application>
