@@ -18,6 +18,10 @@
           <option name="url" value="https://gitlab.k8s.ibeiwai.com/bwol/bwol_document_service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.k8s.ibeiwai.com/bwol-ws/bwol-kms/tree/develop" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\beiwaionline" />
