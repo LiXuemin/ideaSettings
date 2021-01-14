@@ -4,7 +4,7 @@
     <property name="created">2020-08-14T17:05:19</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-08-17T10:22:19</property>
+    <property name="modified">2021-01-14T15:54:08</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <console-font>
@@ -20,8 +20,8 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="49d0c5" />
     <option name="ANNOTATIONS_COLOR" value="90a7b2" />
-    <option name="CARET_COLOR" value="2aa298" />
-    <option name="CARET_ROW_COLOR" value="f0f0f0" />
+    <option name="CARET_COLOR" value="" />
+    <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fbfbfb" />
     <option name="DELETED_LINES_COLOR" value="de3d3b" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="cccccc" />
@@ -414,7 +414,7 @@
       <value>
         <option name="FOREGROUND" value="c969b" />
         <option name="EFFECT_COLOR" value="c969b" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
