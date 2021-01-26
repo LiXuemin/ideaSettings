@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="be741775-8030-45c4-9603-efa2a0dbf866" name="LiXuemin">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="lxmheida@gmail.com" />
     <option name="AUTH_TYPE" value="BASIC" />
