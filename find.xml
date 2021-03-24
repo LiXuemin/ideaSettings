@@ -8,8 +8,8 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
-    <mask>*.ftl</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.ftl</mask>
   </component>
 </application>
