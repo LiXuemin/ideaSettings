@@ -17,5 +17,17 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="tomcat">
+      <CLASSES>
+        <root url="jar://D:/apache-tomcat-8.5.63/lib/annotations-api.jar!/" />
+        <root url="jar://D:/apache-tomcat-8.5.63/lib/catalina.jar!/" />
+        <root url="jar://D:/apache-tomcat-8.5.63/lib/el-api.jar!/" />
+        <root url="jar://D:/apache-tomcat-8.5.63/lib/jasper.jar!/" />
+        <root url="jar://D:/apache-tomcat-8.5.63/lib/servlet-api.jar!/" />
+        <root url="jar://D:/apache-tomcat-8.5.63/lib/jsp-api.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
