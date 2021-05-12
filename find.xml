@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File 'E:\JDK11\lib\src.zip!\java.base\java\util\concurrent\Executor.java [11]'" />
+    <option name="defaultScopeName" value="File 'E:\JDK11\lib\src.zip!\java.base\java\util\concurrent\Executor.java [11]'" />
+    <option name="SEARCH_SCOPE" value="File 'E:\JDK11\lib\src.zip!\java.base\java\util\concurrent\Executor.java [11]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
