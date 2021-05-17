@@ -1,11 +1,16 @@
 <application>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
+    <option name="languageToProjectMap">
+      <map>
+        <entry key="JAVA" value="C:\Users\Administrator\AppData\Roaming\JetBrains\IntelliJIdea2021.1\demo\IdeaLearningProject" />
+      </map>
+    </option>
   </component>
   <component name="LessonStateBase">
     <option name="map">
       <map>
-        <entry key="actions" value="NOT_PASSED" />
+        <entry key="actions" value="PASSED" />
         <entry key="basic completion" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
@@ -14,11 +19,12 @@
         <entry key="collapse" value="NOT_PASSED" />
         <entry key="comment line" value="NOT_PASSED" />
         <entry key="completion with tab" value="NOT_PASSED" />
-        <entry key="context.actions" value="NOT_PASSED" />
+        <entry key="context.actions" value="PASSED" />
         <entry key="declaration and usages" value="NOT_PASSED" />
         <entry key="duplicate" value="NOT_PASSED" />
         <entry key="extract variable" value="NOT_PASSED" />
         <entry key="file structure" value="NOT_PASSED" />
+        <entry key="find in files" value="NOT_PASSED" />
         <entry key="java.debug.workflow" value="NOT_PASSED" />
         <entry key="java.inheritance.hierarchy.lesson" value="NOT_PASSED" />
         <entry key="java.occurrences.lesson" value="NOT_PASSED" />
@@ -30,7 +36,7 @@
         <entry key="recent files and locations" value="NOT_PASSED" />
         <entry key="refactorings.extractmethod" value="NOT_PASSED" />
         <entry key="refactorings.rename" value="NOT_PASSED" />
-        <entry key="search everywhere" value="NOT_PASSED" />
+        <entry key="search everywhere" value="PASSED" />
         <entry key="select" value="NOT_PASSED" />
         <entry key="smart type completion" value="NOT_PASSED" />
         <entry key="statement completion" value="NOT_PASSED" />
