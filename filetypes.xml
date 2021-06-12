@@ -1,9 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="111" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="_metadata" type="PLAIN_TEXT" />
+      <removed_mapping ext="json" approved="true" type="tsconfig" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>

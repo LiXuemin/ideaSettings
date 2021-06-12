@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="CreateLauncherScript">
+        <abbreviation name="idea" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

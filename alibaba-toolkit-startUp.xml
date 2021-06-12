@@ -1,0 +1,9 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/beiwaionline/bwol-adaptive-engine" startUpFlag="FIRST" />
+    <entry projectPath="D:/beiwaionline/bwol-flink" startUpFlag="FIRST" />
+    <entry projectPath="D:/beiwaionline/bwol-flume" startUpFlag="FIRST" />
+    <entry projectPath="D:/lixuemin/flink-learning-master" startUpFlag="FIRST" />
+  </component>
+</application>
