@@ -22,6 +22,26 @@
                       <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="AndroidJUnit">
+                    <value>
+                      <FeaturePluginData displayName="Android JUnit" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="AndroidRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Android App" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="AndroidTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Android Instrumented Tests" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="AntRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
@@ -37,14 +57,14 @@
                       <FeaturePluginData displayName="Arquillian TestNG" pluginName="com.intellij.jboss.arquillian" pluginId="com.intellij.jboss.arquillian" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="BSP_TEST_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="ComposePreviewRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Compose Preview" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -112,6 +132,11 @@
                       <FeaturePluginData displayName="Java Scratch" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="JavaScriptNodeJsTraceType">
+                    <value>
+                      <FeaturePluginData displayName="Spy-js for Node.js" pluginName="Spy-js" pluginId="spy-js" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="JavaScriptTestRunnerJest">
                     <value>
                       <FeaturePluginData displayName="Jest" pluginName="JavaScript and TypeScript" pluginId="JavaScript" bundled="true" />
@@ -120,6 +145,11 @@
                   <entry key="JavaScriptTestRunnerProtractor">
                     <value>
                       <FeaturePluginData displayName="Protractor" pluginName="JavaScript and TypeScript" pluginId="JavaScript" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="JavaScriptTraceType">
+                    <value>
+                      <FeaturePluginData displayName="Spy-js" pluginName="Spy-js" pluginId="spy-js" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JavascriptDebugType">
@@ -147,11 +177,6 @@
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
-                  <entry key="MUnitRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="MUnit" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
                   <entry key="MavenRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" bundled="true" />
@@ -177,11 +202,6 @@
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="Play2FrameworkRunConfigurations">
-                    <value>
-                      <FeaturePluginData displayName="Play 2 App" pluginName="org.intellij.scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
                   <entry key="QuarkusRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Quarkus" pluginName="Quarkus" pluginId="com.intellij.quarkus" bundled="true" />
@@ -197,34 +217,14 @@
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="SbtRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="sbt Task" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
-                  <entry key="ScalaAmmoniteRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Ammonite" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
-                  <entry key="ScalaScriptConsoleRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Scala REPL" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
-                  <entry key="ScalaTestRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="ScalaTest" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="Specs2RunConfiguration">
+                  <entry key="SpaceRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Specs2" pluginName="Scala" pluginId="org.intellij.scala" />
+                      <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" bundled="true" />
                     </value>
                   </entry>
                   <entry key="SpringBootApplicationConfigurationType">
@@ -257,6 +257,16 @@
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="WebLogic Instance">
+                    <value>
+                      <FeaturePluginData displayName="WebLogic Server" pluginName="WebLogic" pluginId="Weblogic" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="WebSphereRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="WebSphere/Liberty Server" pluginName="WebSphere" pluginId="WebSphere" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
@@ -287,11 +297,6 @@
                       <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="uTestRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="utest" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
@@ -317,6 +322,21 @@
                       <FeaturePluginData displayName="WebServices Client" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="android">
+                    <value>
+                      <FeaturePluginData displayName="Android" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="android-gradle">
+                    <value>
+                      <FeaturePluginData displayName="Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="apk">
+                    <value>
+                      <FeaturePluginData displayName="APK" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="ejb">
                     <value>
                       <FeaturePluginData displayName="EJB" pluginName="Java EE: Enterprise Java Beans (EJB)" pluginId="com.intellij.javaee.ejb" bundled="true" />
@@ -325,6 +345,11 @@
                   <entry key="hibernate">
                     <value>
                       <FeaturePluginData displayName="Hibernate" pluginName="Hibernate" pluginId="com.intellij.hibernate" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="java-gradle">
+                    <value>
+                      <FeaturePluginData displayName="Java-Gradle" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="javaeeApplication">
@@ -340,6 +365,11 @@
                   <entry key="kotlin-language">
                     <value>
                       <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                    </value>
+                  </entry>
+                  <entry key="native-android-gradle">
+                    <value>
+                      <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="web">

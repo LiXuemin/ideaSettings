@@ -2,8 +2,8 @@
   <component name="HttpConfigurable">
     <option name="PROXY_TYPE_IS_SOCKS" value="true" />
     <option name="USE_PROXY_PAC" value="true" />
-    <option name="PROXY_HOST" value="192.168.52.19" />
-    <option name="PROXY_PORT" value="7891" />
+    <option name="PROXY_HOST" value="localhost" />
+    <option name="PROXY_PORT" value="7890" />
     <option name="PROXY_EXCEPTIONS" value="192.168.*,*.beiwaionline.com,*.ebeiwai.com,*.ibeiwai.com" />
   </component>
 </application>
