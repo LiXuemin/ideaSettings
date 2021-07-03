@@ -10,8 +10,9 @@
     <mask>*.js</mask>
     <mask>*Constants.java</mask>
     <mask>*.ftl</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*Controller.java</mask>
+    <mask>*.java</mask>
+    <mask>*DAO.java</mask>
   </component>
 </application>
