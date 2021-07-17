@@ -12,7 +12,7 @@
     <mask>*.ftl</mask>
     <mask>*.xml</mask>
     <mask>*Controller.java</mask>
-    <mask>*.java</mask>
     <mask>*DAO.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>

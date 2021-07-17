@@ -6,6 +6,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="_metadata" type="PLAIN_TEXT" />
+      <mapping ext="propertis" type="PLAIN_TEXT" />
       <removed_mapping ext="json" approved="true" type="tsconfig" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
     </extensionMap>
