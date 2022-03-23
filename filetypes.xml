@@ -13,6 +13,7 @@
       <removed_mapping ext="json" approved="true" type="tsconfig" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
