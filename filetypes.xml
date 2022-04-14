@@ -4,7 +4,6 @@
       <mapping pattern="111" type="AUTO_DETECTED" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="s" type="AUTO_DETECTED" />
-      <removed_mapping ext="ng" type="HTML" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -13,6 +12,7 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="json" approved="true" type="tsconfig" />
+      <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
