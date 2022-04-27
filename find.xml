@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\src\test.sh'" />
-    <option name="defaultScopeName" value="File '…\src\test.sh'" />
-    <option name="SEARCH_SCOPE" value="File '…\src\test.sh'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.js</mask>
     <mask>*Constants.java</mask>
     <mask>*.ftl</mask>
@@ -12,7 +13,7 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
