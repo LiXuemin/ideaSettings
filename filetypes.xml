@@ -26,6 +26,7 @@
       <removed_mapping pattern="bootstrap.properties" approved="true" type="Properties" />
       <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
       <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
+      <removed_mapping pattern="pubspec.lock" approved="true" type="YAML" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
