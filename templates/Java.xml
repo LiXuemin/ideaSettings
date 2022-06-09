@@ -1,0 +1,7 @@
+<templateSet group="Java">
+  <template name="lbean" value="@Data&#10;@NoArgsConstructor&#10;@AllArgsConstructor" description="lombok bean annotation" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
