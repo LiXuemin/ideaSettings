@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '…\coupon-template-serv\coupon-template-api\src\main\java\com\lixuemin\coupon\template\api [coupon-template-api]'" />
+    <option name="defaultScopeName" value="Directory '…\coupon-template-serv\coupon-template-api\src\main\java\com\lixuemin\coupon\template\api [coupon-template-api]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…\coupon-template-serv\coupon-template-api\src\main\java\com\lixuemin\coupon\template\api [coupon-template-api]'" />
     <mask>*.js</mask>
     <mask>*Constants.java</mask>
     <mask>*.ftl</mask>
