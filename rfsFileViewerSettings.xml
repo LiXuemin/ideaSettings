@@ -1,0 +1,19 @@
+<application>
+  <component name="RfsFileViewerSettings">
+    <option name="visibleColumns">
+      <map>
+        <entry key="org.jetbrains.hdfsplugin.hdfs.settings.HdfsJavaConnectionData">
+          <value>
+            <list>
+              <option value="type" />
+              <option value="modified" />
+              <option value="size" />
+              <option value="OWNER" />
+              <option value="PERMISSION" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
