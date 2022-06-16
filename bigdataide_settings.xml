@@ -1,0 +1,41 @@
+<application>
+  <component name="BigDataIdeGlobalConnectionSettings">
+    <option name="connections">
+      <list>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="address" value="rO0ABXQAEzE5Mi4xNjguNTQuMTQ1OjgwMjA=" />
+              <entry key="authenticationType" value="rO0ABXQADEV4cGxpY2l0IHVyaQ==" />
+              <entry key="configsPath" value="rO0ABXQAAA==" />
+              <entry key="rootPath" value="rO0ABXQABi4uLy4uLw==" />
+              <entry key="tunnel" value="rO0ABXNyAEpjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLnR1bm5lbC5tb2RlbC5Db25uZWN0aW9uU3NoVHVubmVsSW5mb4g0ot7wzEpsAgAEWgAJaXNFbmFibGVkSQAKcmVtb3RlUG9ydEwACGNvbmZpZ0lkdAASTGphdmEvbGFuZy9TdHJpbmc7TAAKcmVtb3RlSG9zdHEAfgABeHAA/////3QAAHEAfgAD" />
+            </map>
+          </option>
+          <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.HdfsJavaConnectionData" />
+          <option name="groupId" value="HdfsJavaConnectionGroup" />
+          <option name="innerId" value="HDFS@HdfsJavaConnectionGroup@8237061688904115593" />
+          <option name="name" value="HDFS-145" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
+      </list>
+    </option>
+  </component>
+  <component name="RfsDownloadedStorageManager">
+    <option name="fileList">
+      <list>
+        <option value="u_Gj_esf__ãflume_1655270664940_log.log\flume.1655270664940.log" />
+        <option value="_6c___flume_1655186882065_log.log\flume.1655186882065.log" />
+        <option value="______Iflume_1655188478024_log.log\flume.1655188478024.log" />
+        <option value="_8_BejX___flume_1655189991880_log.log\flume.1655189991880.log" />
+        <option value="___Sm__flume_1655188249341_log.log\flume.1655188249341.log" />
+        <option value="A_BuL_flume_1655187931320_log.log\flume.1655187931320.log" />
+        <option value="_Fg_e_iXxT_flume_1655188131348_log.log\flume.1655188131348.log" />
+        <option value="_k_bO___flume_1655188478024_log_tmp.tmp\flume.1655188478024.log.tmp" />
+        <option value="G_D__kO_Aflume_1655188249341_log_tmp.tmp\flume.1655188249341.log.tmp" />
+        <option value="_2_2T_H_flume_1655188131348_log_tmp.tmp\flume.1655188131348.log.tmp" />
+      </list>
+    </option>
+    <option name="mainDirPath" value="C:\Users\Administrator\AppData\Local\Temp\HDFS-downloaded" />
+  </component>
+</application>
