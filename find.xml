@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'bwol-hive-udf'" />
-    <option name="defaultScopeName" value="Project 'bwol-hive-udf'" />
-    <option name="SEARCH_SCOPE" value="Project 'bwol-hive-udf'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.js</mask>
     <mask>*Constants.java</mask>
     <mask>*.ftl</mask>
