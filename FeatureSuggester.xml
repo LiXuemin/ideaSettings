@@ -2,26 +2,6 @@
   <component name="FeatureSuggesterSettings">
     <option name="workingDays">
       <list>
-        <option value="1651890451130" />
-        <option value="1651994102165" />
-        <option value="1652059468490" />
-        <option value="1652144946037" />
-        <option value="1652233163634" />
-        <option value="1652766570232" />
-        <option value="1652834688309" />
-        <option value="1652922253606" />
-        <option value="1653006564983" />
-        <option value="1653899204105" />
-        <option value="1653967780678" />
-        <option value="1654068609408" />
-        <option value="1654129617334" />
-        <option value="1654519109153" />
-        <option value="1654569218908" />
-        <option value="1654652715812" />
-        <option value="1654736873744" />
-        <option value="1654831508384" />
-        <option value="1655129179643" />
-        <option value="1655183579963" />
         <option value="1655259950217" />
         <option value="1655701997142" />
         <option value="1655776332886" />
@@ -29,9 +9,29 @@
         <option value="1655961462810" />
         <option value="1656054637028" />
         <option value="1656482351471" />
-        <option value="1656939655984" />
-        <option value="1658065488503" />
-        <option value="1659706900253" />
+        <option value="1656656863850" />
+        <option value="1656903281543" />
+        <option value="1656983864481" />
+        <option value="1657086286830" />
+        <option value="1657156594998" />
+        <option value="1657500783567" />
+        <option value="1657590037471" />
+        <option value="1657675156495" />
+        <option value="1657762467931" />
+        <option value="1657851533145" />
+        <option value="1658107554272" />
+        <option value="1658195238527" />
+        <option value="1658284843416" />
+        <option value="1658367248939" />
+        <option value="1658473899481" />
+        <option value="1658731260620" />
+        <option value="1658798035282" />
+        <option value="1658890457157" />
+        <option value="1658970638506" />
+        <option value="1659073475629" />
+        <option value="1659317269881" />
+        <option value="1659404409922" />
+        <option value="1659598701418" />
       </list>
     </option>
   </component>
