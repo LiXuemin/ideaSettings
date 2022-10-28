@@ -9,6 +9,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="_metadata" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".model" type="Tabnine project model file" />
