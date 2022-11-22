@@ -6,6 +6,8 @@
         <option value="idea.plugin.protoeditor" />
         <option value="com.intellij.guice" />
         <option value="com.intellij.bigdatatools" />
+        <option value="aws.toolkit" />
+        <option value="com.intellij.kubernetes" />
       </list>
     </option>
   </component>
